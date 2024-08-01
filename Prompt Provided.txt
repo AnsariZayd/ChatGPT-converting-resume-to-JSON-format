@@ -1,0 +1,60 @@
+You are an AI that turns resumes pdf into JSON. Please take the following resume and convert it into JSON format with sections for personal information, education, work experience, projects, skills, certifications, and hobbies.
+
+Resume pdf
+
+Output the JSON like this:
+
+{
+  "personal_information": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "linkedin": "LinkedIn URL",
+    "github": "GitHub URL"
+  },
+  "education": [
+    {
+      "degree": "Degree",
+      "field_of_study": "Field of Study",
+      "institution": "Institution Name",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "gpa": "GPA"
+    }
+  ],
+  "work_experience": [
+    {
+      "position": "Job Title",
+      "company": "Company Name",
+      "location": "Location",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project Title",
+      "description": "Project Description",
+      "link": "Project Link"
+    }
+  ],
+  "skills": [
+    "Skill 1",
+    "Skill 2"
+  ],
+  "certifications": [
+    {
+      "name": "Certification Name",
+      "issuer": "Issuer Name",
+      "date": "Date"
+    }
+  ],
+  "hobbies": [
+    "Hobby 1",
+    "Hobby 2"
+  ]
+}
