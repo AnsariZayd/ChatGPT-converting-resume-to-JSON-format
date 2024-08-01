@@ -1,0 +1,130 @@
+{
+  "personal_information": {
+    "name": "Ansari Zayd Ahmed Abdul Hameed",
+    "email": "ahmedansarizayd@gmail.com",
+    "phone": "9158908486",
+    "linkedin": "https://www.linkedin.com/in/ansari-zayd-ahmed",
+    "github": "https://github.com/AnsariZayd"
+  },
+  "education": [
+    {
+      "degree": "Undergraduate",
+      "field_of_study": "Electronics and Telecommunication Engineering",
+      "institution": "Vishwakarma Institute of Technology, Pune",
+      "start_date": "Jan 2021",
+      "end_date": "Oct 2023",
+      "gpa": "8.71"
+    }
+  ],
+  "work_experience": [
+    {
+      "position": "Machine Learning and Data Science Intern",
+      "company": "YBI Foundation",
+      "location": "New Delhi, India",
+      "start_date": "Oct 2023",
+      "end_date": "Dec 2023",
+      "responsibilities": [
+        "Secured position in top 2% for SIH Grand Finale among 51,000 ideas",
+        "Proposed solution to Ministry of Power for Detection of Hardware Trojan in Embedded applications",
+        "Solution consisted of Electronics Supply chain Integrity at each stage along with Network Security"
+      ]
+    },
+    {
+      "position": "Machine Learning Intern",
+      "company": "Suvidha Foundation",
+      "location": "Pune",
+      "start_date": "Jun 2023",
+      "end_date": "Jul 2023",
+      "responsibilities": [
+        "Developed a Classifier to recognize handwritten digits",
+        "Detected the unseen Hand Written digits correctly",
+        "Achieved accuracy of 91.05%"
+      ]
+    },
+    {
+      "position": "Machine Learning Intern",
+      "company": "Smart India Hackathon - Government of India",
+      "location": "New Delhi, India",
+      "start_date": "Oct 2022",
+      "end_date": "Nov 2022",
+      "responsibilities": [
+        "Contributed in thesis writing on Natural Language Processing",
+        "Participated in collecting funds for the Foundation"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Bash Script Generation Model using Code-llama",
+      "description": "Developed easy to access GUI, Generation of bash script from natural language, Successfully generated comments for the bash script, Created custom dataset for model training",
+      "link": ""
+    },
+    {
+      "title": "Image Classification",
+      "description": "Developed a Classifier to recognize handwritten digits, Detected the unseen Hand Written digits correctly, Achieved accuracy of 91.05%",
+      "link": "https://github.com/AnsariZayd/ImageClassification"
+    },
+    {
+      "title": "House Price Prediction",
+      "description": "Developed a linear regression model on California housing dataset, Achieved accuracy score of 67%, Created front end mobile application with multiple input boxes and event handling",
+      "link": "https://github.com/AnsariZayd/HousePricePrediction"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Large Language Model (LLM)",
+    "Natural Language Processing (NLP)",
+    "Deep learning",
+    "Machine Learning",
+    "Object Oriented Programming",
+    "Data Structures and algorithms"
+  ],
+  "certifications": [
+    {
+      "name": "Neural Networks and Deep Learning",
+      "issuer": "DeepLearning.AI",
+      "date": "06/2024"
+    },
+    {
+      "name": "Hyper Parameter Fine Tuning",
+      "issuer": "DeepLearning.AI",
+      "date": "06/2024"
+    },
+    {
+      "name": "Python Projects for Data Science",
+      "issuer": "IBM",
+      "date": "02/2024"
+    },
+    {
+      "name": "Python for Data Science",
+      "issuer": "IBM",
+      "date": "07/2024"
+    },
+    {
+      "name": "Fundamental of Deep Learning",
+      "issuer": "NVIDIA",
+      "date": "06/2023"
+    },
+    {
+      "name": "Machine Learning Training",
+      "issuer": "Internshala",
+      "date": "04/2022"
+    },
+    {
+      "name": "Software Engineer Intern",
+      "issuer": "Hackerrank",
+      "date": "06/2023"
+    },
+    {
+      "name": "Data Structures in Java",
+      "issuer": "Linkedin Learning",
+      "date": "04/2022"
+    }
+  ],
+  "hobbies": [
+    "Home Automation Enthusiast: Actively engaged in creating innovative home automation projects using ESP8266 and Arduino Uno.",
+    "Football: A dedicated member of the college football team, contributing to teamwork and physical fitness.",
+    "Problem-Solving and Programming: Passionate about honing problem-solving skills through HackerRank and LeetCode challenges.",
+    "Book Reading: I enjoy exploring diverse literary genres to broaden knowledge and foster creativity."
+  ]
+}
